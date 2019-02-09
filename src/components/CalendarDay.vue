@@ -12,6 +12,7 @@
         :everyone="activity.everyone"
         :tags="activity.tags"
         :infinite="activity.infinite"
+        :description="activity.description"
         :key="i"
       />
     </div>

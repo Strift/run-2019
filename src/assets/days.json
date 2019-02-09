@@ -22,7 +22,8 @@
         "begin": 8,
         "duration": 3.5,
         "image": "/img/piton-maido.jpg",
-        "everyone": true
+        "everyone": true,
+        "description": "Ce site naturel, accessible en voiture, est un balcon sur La Réunion. Il offre un panorama remarquable sur le cirque de Mafate et la côte Ouest de l’île, ourlée de magnifiques plages. Le Piton Maïdo est donc incontournable pour embrasser la beauté réunionnaise en un regard."
       },
       {
         "title": "Distillerie de Rhum ?",
@@ -53,7 +54,8 @@
         "begin": 9,
         "duration": 2,
         "image": "/img/marche-forain.jpg",
-        "infinite": true
+        "infinite": true,
+        "description": "Marché haut en couleur avec plus de 300 exposants : vente de produits locaux, épices, fruits, légumes,... Il est considéré comme l'un des plus beaux marchés de l'île de la Réunion, et est sans doute \"le marché le plus touristique\" avec celui de Saint-Pierre."
       },
       {
         "title": "Tunnels de lave",
@@ -62,6 +64,10 @@
         "image": "/img/tunnels.jpg",
         "everyone": true,
         "tags": ["shoes"]
+      },
+      {
+        "title": "Plage de sable noir",
+        "begin": 17
       }
     ]
   },
@@ -73,13 +79,15 @@
         "begin": 8,
         "duration": 4.5,
         "image": "/img/pas-de-bellecombe.jpg",
-        "everyone": true
+        "everyone": true,
+        "description": "Situé en haut de rempart, le pas de Bellecombe surplombe le nord-ouest de l’Enclos Fouqué, la dernière caldeira formée par le volcan du Piton de la Fournaise. C’est à endroit que vous garez votre véhicule pour admirer la vue sur le volcan... ou pour entamer l’excursion qui mène à son sommet culminant à 2.632 mètres. ;)"
       },
       {
         "title": "Chill @ Saint-Pierre",
         "begin": 12.5,
         "duration": 2,
-        "image": "/img/saint-pierre.jpg"
+        "image": "/img/saint-pierre.jpg",
+        "description": "Front de mer, port de plaisance, plage... et américains bouchons !"
       }
     ]
   },
@@ -91,7 +99,8 @@
         "begin": 10,
         "duration": 3,
         "image": "/img/chemin-des-anglais.jpg",
-        "infinite": true
+        "infinite": true,
+        "description": "Petite balade d'une heure avec vue sur l'Océan et la Route du Littoral en contrebas."
       },
       {
         "title": "Déjeuner chez Laurent",
@@ -102,7 +111,8 @@
         "begin": 14.5,
         "duration": 4,
         "image": "/img/barachois.jpg",
-        "infinite": true
+        "infinite": true,
+        "description": "Marché d'artisanat pour les souvenirs, front de mer pour les photos, lieux touristiques pour les curieux... bars pour les autres ahah !"
       }
     ]
   },
@@ -114,18 +124,23 @@
         "begin": 9,
         "duration": 3.5,
         "image": "/img/eglise-ste-anne.jpg",
-        "infinite": true
+        "everyone": true,
+        "infinite": true,
+        "description": "Cascade Niagara (Sainte-Suzanne), Eglise de Saint-Anne, Pont suspendu, Eglise de Sainte-Rose, Route des laves, Anse des cascades (Sainte Rose)"
       },
       {
         "title": "Déjeuner Cap Méchant",
-        "begin": 12.5
+        "begin": 12.5,
+        "everyone": true
       },
       {
         "title": "Tour de l'île - Sud",
         "begin": 14,
         "duration": 4,
         "image": "/img/cap-mechant.jpg",
-        "infinite": true
+        "everyone": true,
+        "infinite": true,
+        "description": "Cap Méchant, Cascade Grand Galet (Saint-Joseph), Gouffre (Etang Salé), Souffleur et pour finir apéro au coucher du soleil sur la plage !"
       }
     ]
   },
@@ -133,23 +148,26 @@
     "title": "Mercredi 10",
     "activities": [
       {
-        "title": "Bassins",
+        "title": "Bassins de l'Est",
         "begin": 9,
         "duration": 3.5,
         "image": "/img/bassin-boeuf.jpg",
         "infinite": true,
-        "tags": ["swimsuit"]
+        "tags": ["swimsuit"],
+        "description": "Bassin la mer, Bassin la paix, Bassin Bleu, Grand Etang, Cascade du chien, Temple du Colosse"
       },
       {
-        "title": "Village de Hellbourg",
-        "begin": 12.5
+        "title": "Village de Hell-Bourg",
+        "begin": 12.5,
+        "description": "En plus d'être labellisé Plus Beaux Villages de France depuis 1998, Hell-Bourg s'est récemment vu attribuer une 4ème place à l'émission Le village préféré des Français. Et pour cause ? De belles cases et jardins créoles au milieu d'un écrin verdure (le cirque de Salazie), une ambiance authentique associée à des visites culturelles (et des dizaines de kilomètres de sentiers de randonnée) !"
       },
       {
         "title": "Cirque de Salazie",
         "begin": 14,
         "duration": 4,
         "image": "/img/salazie.jpg",
-        "infinite": true
+        "infinite": true,
+        "description": "Accessible par une unique route, le cirque de Salazie se délivre presque spontanément, au débouché des gorges de la Rivière du Mât. Le cirque Inscrit dans son intégralité au Patrimoine mondial par l’Unesco, est dominé par le Voile de la Mariée, l'une des plus belles cascades de l'île et d’autres chutes vertigineuses et immanquables."
       }
     ]
   },
@@ -159,10 +177,12 @@
       {
         "title": "Mafate - Aller",
         "begin": 8,
-        "duration": 11,
+        "duration": 14,
+        "infinite": true,
         "image": "/img/mafate1.jpg",
         "everyone": true,
-        "tags": ["shoes"]
+        "tags": ["shoes"],
+        "description": "Le cirque de Mafate est un lieu privilégié pour la randonnée à La Réunion. Avec plus de 140 Km de sentiers et ses gîtes, ce site fait le bonheur des randonneurs d'autant qu'il ne peut être accessible qu'à pied ou en hélicoptère. Mafate est situé sur le territoire du Parc National de La Réunion et fait partie des \"Pitons, cirques et remparts\", inscrits au patrimoine mondial par l'Unesco."
       }
     ]
   },
@@ -175,7 +195,8 @@
         "duration": 6,
         "image": "/img/mafate2.jpg",
         "everyone": true,
-        "tags": ["shoes"]
+        "tags": ["shoes"],
+        "description": "Le cirque de Mafate est un lieu privilégié pour la randonnée à La Réunion. Avec plus de 140 Km de sentiers et ses gîtes, ce site fait le bonheur des randonneurs d'autant qu'il ne peut être accessible qu'à pied ou en hélicoptère. Mafate est situé sur le territoire du Parc National de La Réunion et fait partie des \"Pitons, cirques et remparts\", inscrits au patrimoine mondial par l'Unesco."
       }
     ]
   },
