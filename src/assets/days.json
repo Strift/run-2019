@@ -1,0 +1,192 @@
+[
+  {
+    "title": "Jeudi 4",
+    "activities": [
+      {
+        "title": "Restaurant plage",
+        "begin": 12
+      },
+      {
+        "title": "Sunset",
+        "begin": 17,
+        "duration": 1,
+        "image": "/img/sunset.jpg"
+      }
+    ]
+  },
+  {
+    "title": "Vendredi 5",
+    "activities": [
+      {
+        "title": "Piton Maïdo",
+        "begin": 8,
+        "duration": 3.5,
+        "image": "/img/piton-maido.jpg",
+        "everyone": true
+      },
+      {
+        "title": "Distillerie de Rhum ?",
+        "begin": 11.5
+      },
+      {
+        "title": "Sortie bateau",
+        "begin": 15.5,
+        "duration": 4.5,
+        "image": "/img/bateau.jpg",
+        "everyone": true,
+        "tags": ["swimsuit"]
+      },
+      {
+        "title": "Soirée",
+        "begin": 20,
+        "duration": 2,
+        "image": "/img/soiree.jpg",
+        "infinite": true
+      }
+    ]
+  },
+  {
+    "title": "Samedi 6",
+    "activities": [
+      {
+        "title": "Marché forain",
+        "begin": 9,
+        "duration": 2,
+        "image": "/img/marche-forain.jpg",
+        "infinite": true
+      },
+      {
+        "title": "Tunnels de lave",
+        "begin": 13.5,
+        "duration": 3.5,
+        "image": "/img/tunnels.jpg",
+        "everyone": true,
+        "tags": ["shoes"]
+      }
+    ]
+  },
+  {
+    "title": "Dimanche 7",
+    "activities": [
+      {
+        "title": "Volcan",
+        "begin": 8,
+        "duration": 4.5,
+        "image": "/img/pas-de-bellecombe.jpg",
+        "everyone": true
+      },
+      {
+        "title": "Chill @ Saint-Pierre",
+        "begin": 12.5,
+        "duration": 2,
+        "image": "/img/saint-pierre.jpg"
+      }
+    ]
+  },
+  {
+    "title": "Lundi 8",
+    "activities": [
+      {
+        "title": "Chemin des Anglais",
+        "begin": 10,
+        "duration": 3,
+        "image": "/img/chemin-des-anglais.jpg",
+        "infinite": true
+      },
+      {
+        "title": "Déjeuner chez Laurent",
+        "begin": 13
+      },
+      {
+        "title": "Chill @ Saint-Denis",
+        "begin": 14.5,
+        "duration": 4,
+        "image": "/img/barachois.jpg",
+        "infinite": true
+      }
+    ]
+  },
+  {
+    "title": "Mardi 9",
+    "activities": [
+      {
+        "title": "Tour de l'île - Nord",
+        "begin": 9,
+        "duration": 3.5,
+        "image": "/img/eglise-ste-anne.jpg",
+        "infinite": true
+      },
+      {
+        "title": "Déjeuner Cap Méchant",
+        "begin": 12.5
+      },
+      {
+        "title": "Tour de l'île - Sud",
+        "begin": 14,
+        "duration": 4,
+        "image": "/img/cap-mechant.jpg",
+        "infinite": true
+      }
+    ]
+  },
+  {
+    "title": "Mercredi 10",
+    "activities": [
+      {
+        "title": "Bassins",
+        "begin": 9,
+        "duration": 3.5,
+        "image": "/img/bassin-boeuf.jpg",
+        "infinite": true,
+        "tags": ["swimsuit"]
+      },
+      {
+        "title": "Village de Hellbourg",
+        "begin": 12.5
+      },
+      {
+        "title": "Cirque de Salazie",
+        "begin": 14,
+        "duration": 4,
+        "image": "/img/salazie.jpg",
+        "infinite": true
+      }
+    ]
+  },
+  {
+    "title": "Jeudi 11",
+    "activities": [
+      {
+        "title": "Mafate - Aller",
+        "begin": 8,
+        "duration": 11,
+        "image": "/img/mafate1.jpg",
+        "everyone": true,
+        "tags": ["shoes"]
+      }
+    ]
+  },
+  {
+    "title": "Vendredi 12",
+    "activities": [
+      {
+        "title": "Mafate - Retour",
+        "begin": 8,
+        "duration": 6,
+        "image": "/img/mafate2.jpg",
+        "everyone": true,
+        "tags": ["shoes"]
+      }
+    ]
+  },
+  {
+    "title": "Samedi 13",
+    "activities": [
+      {
+        "title": "Dîner chez Laurane",
+        "begin": 18.5
+      }
+    ],
+    "away": true
+  }
+]
