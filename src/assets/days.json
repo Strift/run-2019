@@ -87,7 +87,7 @@
       },
       {
         "title": "Bassin 18 ?",
-        "begin": 15,
+        "begin": 14.5,
         "displayTime": false
       },
       {
@@ -97,7 +97,7 @@
       },
       {
         "title": "Distillerie de Rhum ?",
-        "begin": 16,
+        "begin": 16.5,
         "description": "Visites : 10h, 11h, 14h, 15h, 16h. Entrée : 8 €",
         "displayTime": false
       }
@@ -217,7 +217,7 @@
     "activities": [
       {
         "title": "Nouvel An Tamoul ?",
-        "begin": 10.5,
+        "begin": 10,
         "displayTime": false
       },
       {
