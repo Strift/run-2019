@@ -13,6 +13,7 @@
         :tags="activity.tags"
         :infinite="activity.infinite"
         :description="activity.description"
+        :display-time="activity.displayTime"
         :key="i"
       />
     </div>

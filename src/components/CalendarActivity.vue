@@ -8,7 +8,7 @@
       <div class="flex flex-row">
         <div>
           <div :class="`font-semibold mr-2 ${textClasses}`">{{ title }}</div>
-          <div :class="`mt-1 ${textClasses}`">
+          <div v-if="displayTime" :class="`mt-1 ${textClasses}`">
             {{ begin | hourString }} <span v-if="duration && !infinite">- {{ begin+duration | hourString }}</span>
           </div>
         </div>
@@ -63,6 +63,10 @@ export default {
     description: {
       type: String,
       default: null
+    },
+    displayTime: {
+      type: Boolean,
+      default: true
     }
   },
   data () {

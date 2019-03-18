@@ -3,7 +3,7 @@
     "title": "Jeudi 4",
     "activities": [
       {
-        "title": "Restaurant plage",
+        "title": "🍴 Restaurant plage",
         "begin": 12
       },
       {
@@ -24,10 +24,6 @@
         "image": "/img/piton-maido.jpg",
         "everyone": true,
         "description": "Ce site naturel, accessible en voiture, est un balcon sur La Réunion. Il offre un panorama remarquable sur le cirque de Mafate et la côte Ouest de l’île, ourlée de magnifiques plages. Le Piton Maïdo est donc incontournable pour embrasser la beauté réunionnaise en un regard."
-      },
-      {
-        "title": "Distillerie de Rhum ?",
-        "begin": 11.5
       },
       {
         "title": "Sortie bateau",
@@ -88,6 +84,22 @@
         "duration": 2,
         "image": "/img/saint-pierre.jpg",
         "description": "Front de mer, port de plaisance, plage... et américains bouchons !"
+      },
+      {
+        "title": "Bassin 18 ?",
+        "begin": 15,
+        "displayTime": false
+      },
+      {
+        "title": "Pointe au sel ?",
+        "begin": 15.5,
+        "displayTime": false
+      },
+      {
+        "title": "Distillerie de Rhum ?",
+        "begin": 16,
+        "description": "Visites : 10h, 11h, 14h, 15h, 16h. Entrée : 8 €",
+        "displayTime": false
       }
     ]
   },
@@ -103,7 +115,7 @@
         "description": "Petite balade d'une heure avec vue sur l'Océan et la Route du Littoral en contrebas."
       },
       {
-        "title": "Déjeuner chez Laurent",
+        "title": "🍴 Déjeuner chez Laurent",
         "begin": 13
       },
       {
@@ -129,7 +141,7 @@
         "description": "Cascade Niagara (Sainte-Suzanne), Eglise de Saint-Anne, Pont suspendu, Eglise de Sainte-Rose, Route des laves, Anse des cascades (Sainte Rose)"
       },
       {
-        "title": "Déjeuner Cap Méchant",
+        "title": "🍴 Déjeuner Cap Méchant",
         "begin": 12.5,
         "everyone": true
       },
@@ -204,8 +216,18 @@
     "title": "Samedi 13",
     "activities": [
       {
-        "title": "Dîner chez Laurane",
-        "begin": 18.5
+        "title": "Nouvel An Tamoul ?",
+        "begin": 10.5,
+        "displayTime": false
+      },
+      {
+        "title": "Stella Matutina ?",
+        "begin": 11,
+        "displayTime": false
+      },
+      {
+        "title": "🍴 Le reflet des îles",
+        "begin": 19
       }
     ],
     "away": true
